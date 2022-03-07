@@ -4,5 +4,5 @@
 
 - 🔭 I’m currently working on Java, Python, JavaScript and React.
 - 🌱 I’m currently learning Docker and React Native
-- 💬 Ask me about music, movies, film photography and mechanical keyboards
+- 💬 Ask me about music, football(barça), movies, film photography and mechanical keyboards
 - 📫 How to reach me: [Twitter](https://twitter.com/swarnavtwt)
